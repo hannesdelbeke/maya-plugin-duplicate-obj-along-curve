@@ -9,5 +9,10 @@
 - enable the maya plugin `dupe_obj_curve_plugin` in Maya's plug-in manager: `Windows` > `Settings/Preferences` > `Plug-in Manager`  
 ![image](https://github.com/plugget/plugget-qt-maya-plugin/assets/3758308/2f8f3e0e-660a-47da-ae32-10c865ed9f4d)
 
+## requirements
+- Python 3
+- tested in maya 2022
+- PySide2
+
 ## reference
 - plugget manifest https://github.com/plugget/plugget-pkgs/tree/main/maya/duplicate-obj-along-curve

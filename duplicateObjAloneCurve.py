@@ -11,7 +11,7 @@ import shiboken2
 
 def getMayaWindow():
     ptr = OpenMayaUI.MQtUtil.mainWindow()
-    return shiboken2.wrapInstance(long(ptr), QtWidgets.QMainWindow)
+    return shiboken2.wrapInstance(int(ptr), QtWidgets.QMainWindow)
 
 
 class GUI(QtWidgets.QWidget):

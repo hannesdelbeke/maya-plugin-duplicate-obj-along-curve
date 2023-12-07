@@ -5,7 +5,7 @@ import maya.cmds as cmds
 
 MENU_NAME = "ToolsMenu"  # no spaces in names, use CamelCase
 MENU_LABEL = "Tools"  # spaces are fine in labels
-MENU_ENTRY_LABEL = "My cool tool"
+MENU_ENTRY_LABEL = "Duplicate obj along curve"
 
 MENU_PARENT = "MayaWindow"  # do not change
 

@@ -15,7 +15,7 @@ def maya_useNewAPI():  # noqa
 
 # =============================== Menu ===========================================
 def show(*args):
-    import duplicateObjAloneCurve
+    import dupe_obj_along_curve
     w = duplicateObjAloneCurve.GUI()
     w.show()
 

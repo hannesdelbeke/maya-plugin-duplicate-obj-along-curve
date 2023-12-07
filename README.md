@@ -11,7 +11,7 @@
 
 ## requirements
 - Python 3
-- tested in maya 2022
+- tested in Maya 2022
 - PySide2
 
 ## reference
